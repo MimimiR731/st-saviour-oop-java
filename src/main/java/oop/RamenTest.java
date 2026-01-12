@@ -21,5 +21,3 @@ public static void main(String[] args)
         for (RamenFlavor f : list) {
             System.out.println(f.describeFlavor()); // polymorphism -one parent has the ability to refer to multiple child types
         }
-
-    
